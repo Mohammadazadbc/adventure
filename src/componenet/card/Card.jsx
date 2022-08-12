@@ -32,7 +32,7 @@ function Card() {
                   src='images/img-4.jpg'
                   text='Experience Football on Top of the Himilayan Mountains'
                   label='Adventure'
-                  path='/products'
+                  path='/product'
                 />
                 <CardItem
                   src='images/img-8.jpg'

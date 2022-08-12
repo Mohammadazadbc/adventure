@@ -16,3 +16,30 @@
   font-size: 3rem;
 }
 
+.services {
+  background-image: url('https://www.myglobalviewpoint.com/wp-content/uploads/2020/12/Tahiti-beautiful-island.jpg');
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  color: #fff;
+  font-size: 100px;
+  
+}
+
+.products {
+  background-image: url('https://images.unsplash.com/photo-1495567720989-cebdbdd97913?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxleHBsb3JlLWZlZWR8N3x8fGVufDB8fHx8&w=1000&q=80');
+  background-position: center;
+  background-size: fill;
+  background-repeat: no-repeat;
+  color: #fff;
+  font-size: 100px;
+}
+
+.sign-up {
+  background-image: url('https://i0.wp.com/files.tripstodiscover.com/files/2015/01/The-Sahara-Desert.jpg?resize=1200,628');
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  color: #fff;
+  font-size: 100px;
+}
