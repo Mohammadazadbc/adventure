@@ -3,5 +3,5 @@ import "../App.css"
 
 
 export default function Servicess(){
-    return <h1 className="services">Services</h1>
+    return <h1 className="services"></h1>
 }
